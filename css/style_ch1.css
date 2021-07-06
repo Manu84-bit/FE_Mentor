@@ -78,10 +78,16 @@ section span {
    color: hsla(0, 0%, 100%, 00.6);
    line-height: 1.5rem;
    margin-bottom: 1rem;
+   font-family:'Lexend Deca', sans-serif;
    font-size: 0.6em;
    letter-spacing: 0.1em;
+   
 }
 h2 {
     font-size: 1em;
     letter-spacing: 0.1em;
 }
+
+/* .stats-c {
+    font-family:'Lexend Deca', sans-serif;
+} */
